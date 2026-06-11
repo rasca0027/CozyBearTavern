@@ -3,19 +3,42 @@
     <title>Cozy Bear Tavern</title>
     <link href="https://rasca0027.github.io/CozyBearTavern/feed.xml" rel="self" />
     <link href="https://rasca0027.github.io/CozyBearTavern" />
-    <updated>2026-06-09T22:57:33-04:00</updated>
+    <updated>2026-06-10T20:07:29-04:00</updated>
     <author>
         <name>Kelly Chang</name>
     </author>
     <id>https://rasca0027.github.io/CozyBearTavern</id>
 
     <entry>
+        <title>Interview Prep Resources</title>
+        <author>
+            <name>Kelly Chang</name>
+        </author>
+        <link href="https://rasca0027.github.io/CozyBearTavern/posts/interview-prep-resources-2/"/>
+        <id>https://rasca0027.github.io/CozyBearTavern/posts/interview-prep-resources-2/</id>
+
+        <updated>2026-06-10T20:06:13-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    System Design Hello Interview Design Gurus Whiteboarding tool Excalidraw Leetcode Grind75 SadServers
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="system-design">System Design</h2>
+<p><a href="https://www.hellointerview.com/">Hello Interview</a><br><a href="designgurus.io">Design Gurus</a>  </p><p>Whiteboarding tool<br><a href="https://excalidraw.com/">Excalidraw</a></p><h2 id="coding">Coding</h2>
+<p>Leetcode<br>Grind75  </p><h2 id="other">Other</h2>
+<p><a href="https://sadservers.com/">SadServers</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Lorelei and the Laser Eyes review</title>
         <author>
             <name>Kelly Chang</name>
         </author>
-        <link href="https://rasca0027.github.io/CozyBearTavern/lorelei-and-the-laser-eyes-review.html"/>
-        <id>https://rasca0027.github.io/CozyBearTavern/lorelei-and-the-laser-eyes-review.html</id>
+        <link href="https://rasca0027.github.io/CozyBearTavern/posts/lorelei-and-the-laser-eyes-review/"/>
+        <id>https://rasca0027.github.io/CozyBearTavern/posts/lorelei-and-the-laser-eyes-review/</id>
 
         <updated>2026-06-09T22:57:33-04:00</updated>
             <summary type="html">
@@ -40,8 +63,8 @@
         <author>
             <name>Kelly Chang</name>
         </author>
-        <link href="https://rasca0027.github.io/CozyBearTavern/unemployment-diary.html"/>
-        <id>https://rasca0027.github.io/CozyBearTavern/unemployment-diary.html</id>
+        <link href="https://rasca0027.github.io/CozyBearTavern/posts/unemployment-diary/"/>
+        <id>https://rasca0027.github.io/CozyBearTavern/posts/unemployment-diary/</id>
 
         <updated>2026-06-09T20:40:08-04:00</updated>
             <summary type="html">
