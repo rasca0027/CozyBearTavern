@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://rasca0027.github.io/CozyBearTavern/posts/being-unemployed/",
+            "url": "https://rasca0027.github.io/CozyBearTavern/posts/being-unemployed/",
+            "title": "Unemployment Diary #2",
+            "summary": "I thought being unemployed would be fun, like I finally have time to do everything that I wanted to do for so long. But in&hellip;",
+            "content_html": "<p>I thought being unemployed would be fun, like I finally have time to do everything that I wanted to do for so long. But in reality, I was sitting in front of my desk all day, everyday, prepating for interviews.</p><p>Some interviews were fun. I don’t mind learning new things for interview. But some are just boring and systemetic. You’re trying your best to impress the interviewers.</p><p>After 1 month, I was so exhausted. I can’t believe I haven’t done anything in the whole month. I did not go to any musesums, hikes, movies in day time. I went to the gym a few times but that was it.</p><p>I had plan to go on hikes but everytime I had canceled it due to interview prepping. I just never felt like I was ready for an interview. This week, after being rejected for more than 5 companies and have no immediate interview ahead, I finally had the time to plan a small getaway trip to upstate.</p>",
+            "author": {
+                "name": "Kelly Chang"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-24T23:14:58-04:00",
+            "date_modified": "2026-06-24T23:16:41-04:00"
+        },
+        {
             "id": "https://rasca0027.github.io/CozyBearTavern/posts/interview-prep-resources-2/",
             "url": "https://rasca0027.github.io/CozyBearTavern/posts/interview-prep-resources-2/",
             "title": "Interview Prep Resources",
